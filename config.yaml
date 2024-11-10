@@ -1,0 +1,58 @@
+projectName: Understanding Non-Human Identities
+jsonFilePath: ./input.json
+baseUrl: https://nhimg.org
+portalHeading: >-
+  Non-Human Identity Management Group - Secure Your Assets from Cyber/Insider
+  Threats
+portalDescription: >-
+  The Non-Human Identity Management Group is a community focused solely on
+  helping solve the huge industry challenge around helping organisations manage
+  and secure Non-Human / Machine Identity Risks.
+portalTitle: Understanding Non-Human Identities
+searchPlaceholder: Search...
+useAlphabetsCategory: true
+homeLink: https://nhimg.org/
+logoLink: https://nhimg.org/
+ctaText: Get Started
+aboutLink: https://nhimg.org/about
+productsLink: https://nhimg.org/products
+logoImgUrl: https://nhimg.org/nhim-logo-new-AE0p6ezbv1FPjlX8.png
+ctaLink: https://nhimg.org/general-equiry
+copyrightText: © 2024 Non-Human Identity Management Group
+faviconUrl: https://nhimg.org/nhim-logo-dWxlX62EnBF111ZN.jpg
+googleTagManagerId: GTM-M6W8WFG4
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/groups/13038250/
+  - platform: YouTube
+    url: https://www.youtube.com/@NonHumanIdentityManagement
+theme:
+  primaryColor: '#673de6'
+  secondaryColor: '#8c85ff'
+  backgroundColor: '#ffffff'
+  textColor: '#1d1e20'
+  accentColor: '#fc5185'
+fonts:
+  - family: Inter
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Montserrat
+    weights:
+      - 500
+      - 600
+      - 700
